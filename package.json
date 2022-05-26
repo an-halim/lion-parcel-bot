@@ -1,0 +1,20 @@
+{
+  "name": "lion-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chance": "^1.1.8",
+    "dotenv": "^14.3.2",
+    "moment": "^2.29.3",
+    "node-machine-id": "^1.1.12"
+  }
+}
